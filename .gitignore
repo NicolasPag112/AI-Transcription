@@ -1,3 +1,16 @@
-/.venv # Ignore virtual environment folder
-__pycache__/ # Ignore Python cache files
-*.pyc # Ignore compiled Python files
+# Ignore virtual environment folder
+/.venv 
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Files directory
+/Files 
+
+# Ignore Transcriptions directory
+/Transcriptions 
+
+# Ignore ffmpeg linux folder
+/ffmpeg-master-latest-linux64-gpl
+# Ignore ffmpeg windows folder
+/ffmpeg-master-latest-win64-gpl-shared
